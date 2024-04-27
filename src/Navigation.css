@@ -1,0 +1,21 @@
+.navbar-brand {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 24px;
+    color: #FFD700; /* Золотой цвет */
+    text-shadow: 2px 2px 2px #000000; /* Тень для текста */
+  }
+  
+  .navbar-brand:hover {
+    color: #FFA500; /* Измененный цвет при наведении курсора */
+  }
+  
+  .navbar-nav .nav-link {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 18px;
+    color: #6c6666; /* Белый цвет */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #FFA500; /* Измененный цвет при наведении курсора */
+  }
+  
